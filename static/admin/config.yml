@@ -1,5 +1,5 @@
 backend:
-  name: git-geteway
+  name: github
   branch: master
   repo: iotcrab/iot-crab
 

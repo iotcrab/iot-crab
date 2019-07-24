@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Contoh penggunaan Gatsbyjs
+title: IOT Crab WEB
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
